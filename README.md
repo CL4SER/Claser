@@ -22,4 +22,3 @@ class claser
 }
 
 module.exports = claser
-```js
