@@ -17,7 +17,7 @@ class claser
         this.job = "developer",
         this.weight = "75",
         this.age = "19",
-        this.discord.tag = "Claser#5000"
+        this.discord.tag = "Claser anc#5000"
     };
 }
 
