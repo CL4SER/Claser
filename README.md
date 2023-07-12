@@ -8,7 +8,7 @@
 
 
 ```js
-class claser
+class reawy
     constructor(options) {
         this.name = "Atakan",
         this.sex = "man",
@@ -21,4 +21,4 @@ class claser
     };
 }
 
-module.exports = claser
+module.exports = reawy
