@@ -1,4 +1,3 @@
-[![Profil Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=reawyxd&color=blueviolet)](https://github.com/reawyxd)
 ![Profil Ziyaretçi Sayısı](https://hit.yhype.me/github/profile?user_id=reawyxd)
 
 
