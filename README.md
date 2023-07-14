@@ -1,7 +1,5 @@
-<div align="center">
-  <h2>Profil Ziyaretçi Sayısı</h2>
-  <img src="https://komarev.com/ghpvc/?username=reawyxd" alt="Profil Ziyaretçi Sayısı" />
-</div>
+[![Profil Ziyaretçi Sayısı](https://camo.githubusercontent.com/79e21e1f3b6760ba54534381b279b5b9abc06995f10840ccf9c30aa6be441fab/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7261766761722f636f756e742e737667)](https://github.com/reawyxd)
+
 
 
 
