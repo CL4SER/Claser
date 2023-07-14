@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Profil Ziyaretçi Sayısı</h2>
+  <h2>Profilimi Gezen Kişi Sayısı</h2>
   <img src="https://komarev.com/ghpvc/?username=reawyxd" alt="Profil Ziyaretçi Sayısı" />
 </div>
 
