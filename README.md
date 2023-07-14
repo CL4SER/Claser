@@ -1,6 +1,8 @@
-![Profil Ziyaretçi Sayısı](https://hit.yhype.me/github/profile?user_id=reawyxd)
-
-
+<p align="center"> 
+Profili Gezen Kişi Sayısı<br>
+  
+ <img src="https://profile-counter.glitch.me/reawyxd/count.svg" />
+</p>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/391938117919047680?hideDiscrim=true)](https://discord.com/users/391938117919047680)
 
