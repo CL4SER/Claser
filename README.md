@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Profil Ziyaretçi Sayısı</h2>
-  <img src="https://komarev.com/ghpvc/?username=johnsmith" alt="Profil Ziyaretçi Sayısı" />
+  <img src="https://komarev.com/ghpvc/?username=reawyxd" alt="Profil Ziyaretçi Sayısı" />
 </div>
 
 
