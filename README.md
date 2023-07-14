@@ -11,7 +11,7 @@ Profilimi Gezen Kişi Sayısı<br>
 
 ![thoughtworks-gif_dribbble](https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ravgar&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=claserxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
 
 
 ```js
