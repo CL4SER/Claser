@@ -1,7 +1,6 @@
-<div align="center">
-  <h2>Profilimi Gezen Kişi Sayısı</h2>
-  <img src="https://komarev.com/ghpvc/?username=reawyxd" alt="Profil Ziyaretçi Sayısı" />
-</div>
+[![Profil Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=reawyxd&color=blueviolet)](https://github.com/github_kullanici_adi)
+![Profil Ziyaretçi Sayısı](https://hit.yhype.me/github/profile?user_id=reawyxd)
+
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/391938117919047680?hideDiscrim=true)](https://discord.com/users/391938117919047680)
