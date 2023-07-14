@@ -1,3 +1,7 @@
+Profilimi Gezen Kişi Sayısı
+![Profil Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=reawyxd)
+
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/391938117919047680?hideDiscrim=true)](https://discord.com/users/391938117919047680)
 
 
