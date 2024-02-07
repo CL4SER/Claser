@@ -16,9 +16,10 @@ Profilimi Gezen Kişi Sayısı<br>
 
 
 ```js
-class claser {
+class reawy {
    constructor(options) {
         this.name = "Atakan",
+        this.surname = "Öztürk",
         this.sex = "man",
         this.length = "183",
         this.type = "human",
@@ -29,5 +30,5 @@ class claser {
     };
 }
 
-module.exports = claser
+module.exports = reawy
 ```
