@@ -5,7 +5,7 @@ Profilimi Gezen Kişi Sayısı<br>
  <img src="https://profile-counter.glitch.me/claserxd/count.svg" />
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/805970423132454923?hideDiscrim=true)](https://discord.com/users/805970423132454923)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/773469116870033418?hideDiscrim=true)](https://discord.com/users/773469116870033418)
 
 
 
@@ -22,8 +22,8 @@ class claser {
         this.type = "human",
         this.job = "developer",
         this.weight = "75",
-        this.age = "19",
-        this.discord.name = "atocanbabacan"
+        this.age = "20",
+        this.discord.name = "reawyyexa"
     };
 }
 
