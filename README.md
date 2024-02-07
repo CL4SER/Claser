@@ -2,7 +2,7 @@
  <p align="center"> 
 Profilimi Gezen Kişi Sayısı<br>
   
- <img src="https://profile-counter.glitch.me/claserxd/count.svg" />
+ <img src="https://profile-counter.glitch.me/reawyyexa/count.svg" />
 </p>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/773469116870033418?hideDiscrim=true)](https://discord.com/users/773469116870033418)
