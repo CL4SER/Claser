@@ -6,7 +6,7 @@ Profilimi Gezen Kişi Sayısı<br>
 </p>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/773469116870033418?hideDiscrim=true)](https://discord.com/users/773469116870033418)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reawyyexa&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%"> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reawyyexa&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="150px"> 
 
 
 ```js
